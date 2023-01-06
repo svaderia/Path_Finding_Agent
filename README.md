@@ -1,5 +1,3 @@
-# Path Finding Agent
----
 # Path Planning Agent
 
 ## Problem Statement
